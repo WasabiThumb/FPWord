@@ -1,0 +1,34 @@
+div.backgroundimage {
+        visibility: hidden;
+}
+
+div.postavatar {
+        visibility: hidden;
+}
+
+span.voteinfo {
+        visibility: hidden;
+}
+
+span.tooltip {
+        visibility: hidden;
+}
+
+span.userlevel {
+        visibility: hidden;
+}
+
+body {
+        background-color: #ffffcc;
+        font-family: "Times New Roman", Times, serif;
+}
+
+a.logo {
+        visibility: hidden;
+}
+
+.div {
+        font-family: "Times New Roman", Times, serif;
+        backgound-color: #99ffff;
+        color: black;
+}
